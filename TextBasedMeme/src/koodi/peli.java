@@ -25,6 +25,7 @@ public class peli {
 		int potion=3;      //kuinka monta potionia pelaaja saa heti
 		int potionhp=30;   //kuinka paljon potion healaa
 		int potiondrop=50; //prosentti
+		//moi
 		
 		// peli
 		int eka;
